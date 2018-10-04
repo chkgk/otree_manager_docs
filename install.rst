@@ -9,7 +9,7 @@ Currently, I only recommend installations on Debian-based operating systems and 
 
 Installer
 ^^^^^^^^^
-To install oTree Manager on your server, download the setup script from https://ckgk.de/otree_manager_setup.sh.
+To install oTree Manager on your server, download the setup script from *.
 After download, make sure it is executable (chmod +x otree_manager_setup.sh). Then, run it with (sudo ./otree_manager_setup.sh).
 
 Configuration

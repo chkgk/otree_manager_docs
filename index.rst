@@ -17,7 +17,7 @@ Features
 
 Demo
 ^^^^
-https://oforest.org
+Coming soon.
 
 .. toctree::
    :maxdepth: 2
@@ -25,7 +25,6 @@ https://oforest.org
 
    user.rst
    admin.rst
-   install.rst
 
 
 Indices and tables
