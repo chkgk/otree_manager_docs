@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'oTree Manager'
-copyright = '2018, Christian König-Kersting'
-author = 'Christian König-Kersting'
+copyright = '2018, Christian Koenig-Kersting'
+author = 'Christian Koenig-Kersting'
 
 # The short X.Y version
 version = ''
