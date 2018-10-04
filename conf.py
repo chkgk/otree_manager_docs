@@ -129,7 +129,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'oTreeManager.tex', 'oTree Manager Documentation',
-     'Christian König-Kersting', 'manual'),
+     'Christian Koenig-Kersting', 'manual'),
 ]
 
 
