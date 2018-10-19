@@ -8,7 +8,7 @@ Once the account has been created, you will receive an email with your username.
 
 First Login
 ^^^^^^^^^^^
-Upon first login, you will be asked to set your public SSH deployment key. Setting this key is necessary for deploying your experiments. It serves two aspects: The key allows oTree Manager to identify users when they are uploading an experiment. Thus, oTree Manager can make sure that you can only upload experiments to oTree instances that belong to you. Furthermore, setting the SSH key removes the hassle of handling user names and passwords.
+Upon first login, you will be asked to set your public Secure Shell (SSH) deployment key. Setting this key is necessary for deploying your experiments. It serves two purposes: The key allows oTree Manager to identify users when they are uploading an experiment. Thus, oTree Manager can make sure that you can only upload experiments to oTree instances that belong to you. Furthermore, setting the SSH key removes the hassle of handling user names and passwords.
 
 The web interfaces contains instructions on how to find and uploading your public SSH key. It also tells you how to generate a key if it is not yet present on your system.
 
@@ -24,7 +24,7 @@ The house icon in the top left corner always brings you back to the dashboard. T
 
 Detail View
 ^^^^^^^^^^^
-This is the main management screen for your oTree installation. It gives you all the details on its status and its configuration. The screen also provides access to all management features, including setting the oTree admin password, resetting the database, and configuring the lobby feature.
+This is the main management screen for your oTree installation. It gives you all the details on its status and its configuration. The screen also provides access to all management features, including setting the oTree admin password, resetting the database, and configuring the Lobby feature.
 
 Multiple folding sections make up the biggest part of the detail box. Depending on the state of the instance, different sections will open by default.
 

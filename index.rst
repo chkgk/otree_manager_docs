@@ -6,6 +6,11 @@
 oTree Manager
 =============
 
+Paper
+^^^^^
+König-Kersting, Christian (2018) `oTree Manager: Multi-user oTree installations made easy <https://ckgk.de/files/K_oTree_Manager.pdf>`_.
+
+
 Features
 ^^^^^^^
 - create and manage fully independent, production-ready oTree instances
@@ -14,10 +19,13 @@ Features
 - easy to remember URLs, no manual port configuration
 - automatic configuration of PostgreSQL, Redis, and environment variables for production
 - written in Python, built on industry standards (Docker, Dokku, Django)
+- less resource intensive than virtual machine setups
+- Lobby feature for easy experiment administration
 
 Demo
 ^^^^
-Coming soon.
+https://demo.otree-manager.com
+
 
 .. toctree::
    :maxdepth: 2
@@ -25,7 +33,7 @@ Coming soon.
 
    user.rst
    admin.rst
-
+   install.rst
 
 Indices and tables
 ==================
@@ -33,3 +41,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
