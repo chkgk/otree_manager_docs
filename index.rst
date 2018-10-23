@@ -26,6 +26,10 @@ Demo
 ^^^^
 https://demo.otree-manager.com
 
+Code
+^^^^
+https://github.com/chkgk/otree_manager
+
 
 .. toctree::
    :maxdepth: 2
