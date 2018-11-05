@@ -6,9 +6,9 @@
 oTree Manager
 =============
 
-Paper
-^^^^^
-König-Kersting, Christian (2018) `oTree Manager: Multi-user oTree installations made easy <https://ckgk.de/files/K_oTree_Manager.pdf>`_.
+.. Paper
+  ^^^^^
+  König-Kersting, Christian (2018) `oTree Manager: Multi-user oTree installations made easy <https://ckgk.de/files/K_oTree_Manager.pdf>`_.
 
 
 Features
@@ -28,7 +28,7 @@ https://demo.otree-manager.com
 
 Code
 ^^^^
-https://github.com/chkgk/otree_manager
+https://github.com/otree-manager/otree_manager
 
 
 .. toctree::

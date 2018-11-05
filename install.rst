@@ -9,4 +9,4 @@ Currently, I only recommend installations on Debian-based operating systems and 
 
 Installation
 ^^^^^^^^^^^
-Detailed instructions on how to install oTree Manager will follow. At the moment, please head over to the repository containing the installation script and follow the instructions in its Readme file: https://github.com/chkgk/otree_manager_installation
+Detailed instructions on how to install oTree Manager will follow. At the moment, please head over to the repository containing the installation script and follow the instructions in its Readme file: https://github.com/otree-manager/otree_manager_installation
