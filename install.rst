@@ -20,15 +20,17 @@ Note: The installation instructions assume a clean Debian 9 installation to star
 First, make sure to update all system packages to their latest versions and install git:
 
 .. code-block:: bash
-   $ sudo apt update
-   $ sudo apt upgrade
-   $ sudo apt install git
+
+  sudo apt update
+  sudo apt upgrade
+  sudo apt install git
 
 Then, we install oTree Manager using its installation script:
 
 .. code-block:: bash
-   $ git clone https://github.com/otree-manager/otree_manager_installation.git
-   $ cd otree_manager_installation
-   $ sudo bash ./otree_manager_setup.sh
+
+  git clone https://github.com/otree-manager/otree_manager_installation.git
+  cd otree_manager_installation
+  sudo bash ./otree_manager_setup.sh
 
 Head over to GitHub to take a look at the installation script. https://github.com/otree-manager/otree_manager_installation
