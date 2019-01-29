@@ -6,13 +6,8 @@
 oTree Manager
 =============
 
-Paper
-^^^^^
-König-Kersting, C. (2018) `oTree Manager: Multi-user oTree installations made easy <https://ckgk.de/files/K_oTree_Manager.pdf>`_.
-
-
 Features
-^^^^^^^
+^^^^^^^^
 - create and manage fully independent, production-ready oTree instances
 - intuitive web interface for lab managers and experimenters
 - Heroko-ish deployment of experiments with Git
@@ -30,6 +25,11 @@ Code
 ^^^^
 https://github.com/otree-manager/otree_manager
 
+Paper
+^^^^^
+If oTree Manager made running experiments easier for you, please consider citing the accompanying paper when publishing your results:
+
+König-Kersting, C. (2019) `oTree Manager: Multi-user oTree installations made easy <https://ckgk.de/files/K_oTree_Manager.pdf>`_. Working Paper.
 
 .. toctree::
    :maxdepth: 2
