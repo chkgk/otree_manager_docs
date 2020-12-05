@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'oTree Manager'
-copyright = '2018, Christian Koenig-Kersting'
+copyright = '2019, Christian Koenig-Kersting'
 author = 'Christian Koenig-Kersting'
 
 # The short X.Y version
@@ -66,7 +66,7 @@ language = None
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = None
+pygments_style = 'sphinx'
 
 
 # -- Options for HTML output -------------------------------------------------

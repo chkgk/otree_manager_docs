@@ -57,3 +57,22 @@ Create new container
 To create a new oTree container, click the button on the dashboard or find it in the wrench icon menu. oTree containers need a URL-safe name which you should choose to be as short as possible, as it will be part of the instance's URL. Select the experimenter the container belongs to and click 'create'.
 
 Upon creation of a new container, several processes start running in the background. You will get periodic updates about the status of these processes on the web interface. First, the oTree container is initialized and write permission to the associated Git repository are granted. oTree Manager then starts two docker containers and links them to the instance. One container provides a PostgreSQL database, the other a Redis database. Once these are up and running, the oTree instance is pre-configured for production use. That is, debug mode is turned off, the authentication level is raised to STUDY, and a random password is generated and set for the admin account.
+
+
+Site Management
+^^^^^^^^^^^^^^^
+
+Imprint information
+-------------------
+You should customize the imprint page to display the information required by your jurisdiction. This typically includes the name of the person responsible for running the website as well as their contact details.
+
+Super-Users can reach the dedicated imprint page editing form from the wrench-menu.
+Text formatting is done through standard HTML. Special characters are NOT escaped automatically.
+
+
+Privacy statement
+-----------------
+Again, you should customize the privacy statement page to display the information required by your jurisdiction. This typically includes information on which and how data is collected, how it is processed, and who can be contacted to request removal of any stored data.
+
+Super-Users can reach the dedicated privacy page editing form from the wrench-menu.
+As with the imprint page, text formatting is done through standard HTML. Special characters are NOT escaped automatically.
