@@ -6,30 +6,24 @@
 oTree Manager
 =============
 
+*Note: Development of oTree Manager has ended. Sub-domain hosting and wildcard SSL certificated proved difficult in university IT systems. Reverse proxying subpaths (example.com/otree1) to container instances appears to be impossible at this time due to some hard-coded oTree url routing.*
+
 Features
 ^^^^^^^^
 - create and manage fully independent, production-ready oTree instances
 - intuitive web interface for lab managers and experimenters
-- Heroko-ish deployment of experiments with Git
+- Heroku-ish deployment of experiments with Git
 - easy to remember URLs, no manual port configuration
 - automatic configuration of PostgreSQL, Redis, and environment variables for production
 - written in Python, built on industry standards (Docker, Dokku, Django)
 - less resource intensive than virtual machine setups
 - Lobby feature for easy experiment administration
 
-Demo
-^^^^
-https://demo.otree-manager.com
 
 Code
 ^^^^
 https://github.com/otree-manager/otree_manager
 
-Paper
-^^^^^
-If oTree Manager made running experiments easier for you, please consider citing the accompanying paper when publishing your results:
-
-König-Kersting, C. (2019) `oTree Manager: Multi-user oTree installations made easy <https://ckgk.de/files/K_oTree_Manager.pdf>`_. Working Paper.
 
 .. toctree::
    :maxdepth: 2
